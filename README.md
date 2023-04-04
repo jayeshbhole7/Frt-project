@@ -32,12 +32,15 @@ Project Link : https://nice-wave-0ed6f9910.2.azurestaticapps.net/
 
 # Implementation:
 
-ScreenShots of the Bot : 
-------------------------
-
+Sample Images of the Project : 
+------------------------------
 <p>
   <img src="img/Screenshot (63).png" />
 </p>
+
+ScreenShots of the Bot : 
+------------------------
+
 <p>
   <img src="img/Screenshot (64).png" />
 </p>
