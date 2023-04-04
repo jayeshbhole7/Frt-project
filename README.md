@@ -20,6 +20,12 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 
 5.Free SSL certificates, which are automatically renewed.
 
+The chatbot remains open in the begining but it won't disturb the users as the users can hide the bot using the **ChatBot Button** just next to the chat bot.<br>
+---
+<p align="center">
+  <img src="img/chat-bot img.png" />
+</p>
+
 # Project : 
 
 Project Link : https://nice-wave-0ed6f9910.2.azurestaticapps.net/
