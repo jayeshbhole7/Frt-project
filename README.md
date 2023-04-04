@@ -3,7 +3,7 @@ Future Ready Talent Project on Static Web App and Chatbot
 
 # Azure services used in this project :
 
-1. Language
+1. Language Understanding
 2. Static Web App
 3. Azure Bot Service
 
