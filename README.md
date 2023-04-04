@@ -35,10 +35,18 @@ Project Link : https://nice-wave-0ed6f9910.2.azurestaticapps.net/
 ScreenShots of the Bot : 
 ------------------------
 
-img/Screenshot (63).png
-img/Screenshot (64).png
-img/Screenshot (65).png
-img/Screenshot (66).png
+<p>
+  <img src="img/Screenshot (63).png" />
+</p>
+<p>
+  <img src="img/Screenshot (64).png" />
+</p>
+<p>
+  <img src="img/Screenshot (65).png" />
+</p>
+<p>
+  <img src="img/Screenshot (66).png" />
+</p>
 
 Sample video of the Project:
 -----------------------------
