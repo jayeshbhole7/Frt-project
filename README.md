@@ -23,3 +23,10 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 # Project : 
 
 Project Link : https://nice-wave-0ed6f9910.2.azurestaticapps.net/
+
+# Implementation:
+
+Sample video of the Project:
+-----------------------------
+
+https://drive.google.com/file/d/1RfEqzTAc9IfVXfiL3INzjxEAaDJaUlkD/view?usp=sharing
