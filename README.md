@@ -14,7 +14,7 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 
 2.Integrated API support provided by Azure Functions with the option to link an existing Azure Functions app using a standard account.
 
-3.First-class GitHub and Azure DevOps integration where repository changes trigger builds and deployments.
+3.GitHub and Azure DevOps integration where repository changes trigger builds and deployments.
 
 4.Globally distributed static content, putting content closer to your users.
 
