@@ -1,5 +1,4 @@
-# FutureReadyTalent
-Future Ready Talent Project on Static Web App and Chatbot
+
 
 # Azure services used in this project :
 
